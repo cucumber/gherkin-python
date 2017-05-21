@@ -1,0 +1,5 @@
+include setup.cfg
+include LICENSE.txt
+include setup.py
+include bin/gherkin
+recursive-include gherkin *.py
